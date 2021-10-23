@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    background-color: powderblue;
+}
+
+img{
+    width: 360px;
+    height: 200px;
+    padding: 20px;
+}
+
+#text{
+    background-color: powderblue;
+    text-align: left;
+    width: 360px;
+}
+#divi{
+    background-color: powderblue;
+    display: flex;
+    justify-content: center;
+
+}
